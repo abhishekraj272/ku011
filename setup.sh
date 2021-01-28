@@ -1,4 +1,5 @@
 mkdir -p ~/.streamlit/
+apt install ffmpeg
 echo "[general]
 email = \"anshulchoudhary2001@gmail.com\"
 " > ~/.streamlit/credentials.toml
